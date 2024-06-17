@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProgrammingTest1010",
+			"Path": "F:\\Unreal Projects\\1010 Games Programming Test - Oscar Gilley\\ProgrammingTest1010\\Source\\ProgrammingTest1010.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProgrammingTest1010Editor",
+			"Path": "F:\\Unreal Projects\\1010 Games Programming Test - Oscar Gilley\\ProgrammingTest1010\\Source\\ProgrammingTest1010Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

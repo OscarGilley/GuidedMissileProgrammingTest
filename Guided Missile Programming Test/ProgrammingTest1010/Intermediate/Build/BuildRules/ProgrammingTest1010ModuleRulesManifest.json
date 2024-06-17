@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\Unreal Projects\\1010 Games Programming Test - Oscar Gilley\\ProgrammingTest1010\\Source\\ProgrammingTest1010\\ProgrammingTest1010.Build.cs",
+		"F:\\Unreal Projects\\1010 Games Programming Test - Oscar Gilley\\ProgrammingTest1010\\Source\\ProgrammingTest1010.Target.cs",
+		"F:\\Unreal Projects\\1010 Games Programming Test - Oscar Gilley\\ProgrammingTest1010\\Source\\ProgrammingTest1010Editor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}
